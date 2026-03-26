@@ -1,0 +1,33 @@
+Part 1: Problem Statement Canvas
+
+This section defines the market reality, the target user, and the exact gap in the current landscape.
+
+Element Description
+Target User High‑agency knowledge workers, creators, and founders who possess deep theoretical knowledge of productivity but consistently fail at execution.
+Core Problem Users are trapped in a cycle of high‑stimulation consumption and low real‑world output, unable to execute high‑effort, low‑reward tasks (deep work).
+Context / Trigger The moment of transition. When the user faces cognitive friction (starting a difficult task), their brain instinctively seeks the path of least resistance (digital distraction).
+Impact A profound loss of self‑efficacy and compromised long‑term goals.
+Current Alternatives (Why They Fail) Blockers: Rely on continuous user consent; easily bypassed during moments of weakness. Gamified Trackers: Replace one dopamine loop with another; become a new compulsion. Streak Apps: Rely on guilt and shame; trigger stress responses that cause further relapse.
+
+Part 2: Root Cause Analysis
+
+This moves past the symptom (“the user is distracted”) and diagnoses the underlying biological and structural failures.
+
+· Symptom
+  The user abandons deep work to endlessly scroll or consume hyper‑novel digital media.
+· Biological Root Cause – The Neurological Override
+  The brain’s reward system has been artificially altered by modern digital environments. In moments of friction, the impulsive limbic system entirely overrides the rational prefrontal cortex. This is a biological deficit—not a moral failing or a lack of willpower.
+· Environmental Root Cause – Asymmetric Warfare
+  The user is fighting algorithmically optimized temptation with finite willpower. The environment is designed to hijack attention effortlessly.
+· Tooling Root Cause – The Consent Flaw
+  Current productivity tools require the user’s “impulsive self” to agree to the rules in real time. Because the limbic system is in control during a craving, it simply turns the blocker off.
+
+Part 3: Problem Decomposition
+
+This breaks the massive root causes down into specific, solvable engineering and UX challenges.
+
+Sub‑Problem Issue Product Requirement
+A: The “In‑the‑Moment” Negotiation When cravings peak, the user rationalizes bypassing their own rules. Asymmetric Pre‑commitment – The system must allow the user’s rational self to sign an unbreakable contract in peacetime that the impulsive self cannot negotiate out of during wartime.
+B: The Instant Dopamine Hit The urge to switch apps is sudden, intense, and requires instant gratification to survive. Brutal Pattern Interruption – The system must introduce an agonizingly slow, unskippable time‑delay lockout (3–5 minutes) when a breach is attempted, killing the instant gratification loop.
+C: The “Escape Hatch” Exploit Users will delete accounts, force cloud‑sync errors, or use secondary devices to cheat the system. Uncheatable Offline Architecture – 100% on‑device local processing. The contract must persist through device reboots and airplane mode.
+D: Decision Fatigue Navigating complex app settings drains the exact mental energy needed for deep work. Flow Priming – A hyper‑minimalist, zero‑distraction UI that strips away all choices once a work session is locked in.
